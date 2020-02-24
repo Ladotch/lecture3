@@ -1,0 +1,34 @@
+body {
+    background-image: url("22.jpg");
+    background-color: #cccccc;
+   }
+   img{
+    height: 100px;
+    width: 100px;
+    margin-left: 15px;
+}
+.photos{
+    width: 650px;
+    margin: auto;
+}
+.footer{
+    text-align: center;
+}
+.copy{
+    margin-right: 100px;
+}
+.a1{
+    color: green;
+}
+.a2{
+    color: green;
+}
+.a3{
+    color: blue;
+}
+.a4{
+    color: green;
+}
+.a5{
+    color: blue;
+}
